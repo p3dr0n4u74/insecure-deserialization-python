@@ -18,7 +18,7 @@ O script gera automaticamente três tipos de payloads comuns em testes de intrus
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/p3dr0n4u74/insecure-deserialization-python](https://github.com/p3dr0n4u74/insecure-deserialization-python)
+    git clone [https://github.com/pedroalmeidap/insecure-deserialization-python](https://github.com/pedroalmeidap/insecure-deserialization-python)
     cd nome-do-repo
     ```
 
